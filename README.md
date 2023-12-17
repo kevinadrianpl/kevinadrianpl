@@ -4,4 +4,5 @@ When I'm not crafting marvels on the internet, you might catch me conjuring up c
 My fervor for all things tech is matched only by my insatiable appetite for technology. Every day is a chance to dive deeper into the vast sea of IT. 
 
   · 🎒 I try to code different projects to improve my technical and security skills, including game and app development.
+  
   · 🔒 If you need help or advice about anything technical, get in touch. Visit my site @ https://www.kevinadrian.dev/
