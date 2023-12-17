@@ -5,5 +5,7 @@ By day, I'm a seasoned IT Systems Administrator and Cybersecurity enthusiast and
 My fervor for all things security is matched only by my insatiable appetite for technology. Every day is a chance to dive deeper into the vast sea of IT. 
 
   · 🎒 I try to code different projects to improve my technical and security skills, including game and app development.
+  
   · 👾 I have been gaming since the day I noticed that my hands have thumbs on them, and now I make games too.
+  
   · 🔒 If you need help or advice about anything technical, get in touch. Visit my site @ https://www.kevinadrian.dev/
