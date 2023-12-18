@@ -2,7 +2,7 @@ Hello! <img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave
 
 By day, I'm a seasoned IT systems administrator and cybersecurity enthusiast with a history of working in multiple industries over a period of 15 years. I've held various roles in IT management, server management, system administration, information security and in my spare time I develop things. 
 
-My fervour for all things security is matched only by my insatiable appetite for technology. Every day is a chance to dive deeper into the vast sea of IT. 
+My fervour for all things security is matched only by my insatiable appetite for technology. I have a passion for technology and work on multiple projects to keep up with the ever-changing industry, every day is a chance to dive deeper into the vast sea of IT.
 
   · 🎒 I try to code different projects to improve my technical and security skills, including game and app development.
   
