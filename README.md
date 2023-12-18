@@ -6,6 +6,6 @@ My fervour for all things security is matched only by my insatiable appetite for
 
   · 🎒 I try to code different projects to improve my technical and security skills, including game and app development.
   
-  · 👾 I've been gaming since I could reach a controller, and now I've upgraded from a button-mashing kid to a button-coding developer on the side.
+  · 👾 From childhood gaming to developing games on the side, I've turned a youthful pastime into a passionate side project.
   
   · 🔒 If you need help or advice about anything technical, get in touch. Visit my site @ https://www.kevinadrian.dev/
