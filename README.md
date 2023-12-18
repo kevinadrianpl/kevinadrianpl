@@ -8,4 +8,4 @@ My fervour for all things security is matched only by my insatiable appetite for
   
   · 👾 From childhood gaming to developing games on the side, I've turned a youthful pastime into a passionate side project.
   
-  · 🔒 If you need help or advice about anything technical, get in touch. Visit my site @ https://www.kevinadrian.dev/
+  · 🔒 If you would like to chat or have any questions, feel free to get in touch! Visit my site @ https://www.kevinadrian.dev/
