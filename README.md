@@ -5,4 +5,5 @@ I’m an experienced IT systems administrator and cybersecurity enthusiast with 
 I work on non-commercial projects and believe in the driving force of the open-source movement, every day is a chance to dive deeper into the vast sea of technology.
 
   · 🎒 I code different projects to improve my technical and security skills, including game and app development.
+  
   · 🔒 If you would like to chat or have any questions, feel free to get in touch. Visit my site @ https://www.kevinadrian.dev/
