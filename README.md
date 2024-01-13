@@ -1,4 +1,4 @@
-Hello! <img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="25" width="25" > </h1> I’m `Kevin Adrian Pillay`, aka 'Adrian Kevin', a techie originally from South Africa now making waves in The Netherlands. 
+Hello! <img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="25" width="25" > </h1> I’m `Kevin Adrian Pillay`, aka `Adrian Kevin`, a techie originally from South Africa now making waves in The Netherlands. 
 
 I’m an experienced IT systems administrator and cybersecurity enthusiast with a history of working in multiple industries in various roles such as IT management, server management, system administration, and information security.
 
