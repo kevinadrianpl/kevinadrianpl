@@ -1,9 +1,15 @@
-Hello! <img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="25" width="25" > </h1> I’m `Kevin Adrian Pillay`, aka `Adrian Kevin`, a techie originally from South Africa now making waves in The Netherlands. 
+<img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="25" width="25" > </h1> I’m `Kevin Adrian Pillay`.
 
-I’m an experienced IT systems administrator and cybersecurity enthusiast with a history of working in multiple industries in various roles such as IT management, server management, system administration, and information security.
+## SysAdmin and Platform Engineer with a focus on reliable infrastructure, automation, and practical security. Current interests ->
 
-I work on non-commercial projects and believe in the driving force of the open-source movement, every day is a chance to dive deeper into the vast sea of technology.
+  🔸 Infrastructure automation, CI/CD and deployment focus, self-hosted platforms and service reliability, building home-lab environments.
+  🔸 Security-minded operations, documentation and runbooks, server administration and hardening, improving incident response.
+  🔸 If you would like to chat, feel free to connect.
 
-  · 🎒 I code different projects to improve my technical and security skills, including game and app development.
-  
-  · 🔒 If you would like to chat or have any questions, feel free to get in touch. Visit my site @ https://www.kevinadrian.dev/
+## Featured Projects
+  🔸 Personal website: https://www.kevinadrian.dev/
+  🔸 Gaming server platform website: https://www.dxrery.top/
+  🔸 Infrastructure and automation experiments: tbd
+
+## Tech and tools
+Linux • Docker • Infrastructure as Code • PowerShell • Bash • Python • Azure • AWS • Kubernetes • Monitoring • ITIL • AI
