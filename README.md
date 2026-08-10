@@ -9,6 +9,7 @@
   🔸 If you would like to chat, feel free to connect.
 
 ## Featured Projects
+
   🔸 Personal website: https://www.kevinadrian.dev/
   
   🔸 Gaming server platform website: https://www.dxrery.top/
@@ -16,4 +17,5 @@
   🔸 Infrastructure and automation experiments: tbd
 
 ## Tech and tools
+
 Linux • Docker • Infrastructure as Code • PowerShell • Bash • Python • Azure • AWS • Kubernetes • Monitoring • ITIL • AI
